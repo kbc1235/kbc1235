@@ -1,13 +1,8 @@
 # 안녕하세요 👋
 ## 🚀 GitHub 통계
-<div style="display:flex;">
-  <div> 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kbc1235&layout=compact&theme=radical)
-  </div>
-  <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbc1235&show_icons=true&theme=radical)
-  </div>
-</div>
+
 
 ## 👨‍💻 About Me
 - **이름**: 김영우
