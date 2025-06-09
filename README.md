@@ -3,7 +3,7 @@
 - **이름**: 김영우
 - **프론트엔드 개발자**: 2년 경력
 - **웹 퍼블리싱**: 7년 경력
-- **현재 집중하는 분야**: React, TypeScript, UI/UX 디자인
+- **현재 집중하는 분야**: React, TypeScript, Next, TestCode
 - **현재 작업 중**: 생성형 AI 관련 프론트엔드 작업
 - **관심 분야**: 인터랙티브 웹 개발
 - 
@@ -34,7 +34,3 @@
 
 ## 📌 주요 프로젝트
 - [FitTrip] - CrossFit 박스 찾기 서비스
-
-
-## 🎯 GitHub 활동
-![Your Name's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kbc1235&theme=radical)
