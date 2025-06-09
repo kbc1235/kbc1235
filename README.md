@@ -1,6 +1,13 @@
 # 안녕하세요 👋
-
+## 🚀 GitHub 통계
+<div style="display:flex;">
+  <div> 
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kbc1235&layout=compact&theme=radical)
+  </div>
+  <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbc1235&show_icons=true&theme=radical)
+  </div>
+</div>
 
 ## 👨‍💻 About Me
 - **이름**: 김영우
@@ -35,8 +42,6 @@
 - **서버 사이드 렌더링(SSR)**: **Next.js**를 이용한 SSR 구현 및 성능 최적화 방법
 - **Svelte**: Svelte 프레임워크를 사용한 애플리케이션 개발 방법 학습
 
-## 🎯 GitHub 활동
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kbc1235&show_icons=true&theme=radical)
 
-## 🚀 GitHub 통계
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kbc1235&layout=compact&theme=radical)
+
+
