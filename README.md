@@ -36,7 +36,7 @@
 - **Svelte**: Svelte 프레임워크를 사용한 애플리케이션 개발 방법 학습
 
 ## 🎯 GitHub 활동
-![Your Name's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kbc1235&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kbc1235&show_icons=true&theme=radical)
 
 ## 🚀 GitHub 통계
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kbc1235&layout=compact&theme=radical)
