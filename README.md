@@ -1,7 +1,4 @@
 # 안녕하세요 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbc1235&show_icons=true&theme=radical)
-
 ## 👨‍💻 About Me
 - **이름**: 김영우
 - **프론트엔드 개발자**: 2년 경력
