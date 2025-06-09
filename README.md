@@ -33,4 +33,4 @@
 </div>
 
 ## 📌 주요 프로젝트
-- [FitTrip] - CrossFit 박스 찾기 서비스
+- [<a href="https://ai-news-rho.vercel.app/">FitTrip</a>] - CrossFit 박스 찾기 서비스
