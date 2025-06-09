@@ -1,8 +1,6 @@
 # 안녕하세요 👋
-## 🚀 GitHub 통계
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kbc1235&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbc1235&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbc1235&show_icons=true&theme=radical)
 
 ## 👨‍💻 About Me
 - **이름**: 김영우
@@ -11,11 +9,7 @@
 - **현재 집중하는 분야**: React, TypeScript, UI/UX 디자인
 - **현재 작업 중**: 생성형 AI 관련 프론트엔드 작업
 - **관심 분야**: 인터랙티브 웹 개발
-
-## 🔭 현재 작업 중인 프로젝트
-- **VITALYN**: CrossFit WOD 기록 및 경쟁 앱 (React, Supabase)
-- **FitTrip**: 여행 중 CrossFit 박스를 쉽게 찾을 수 있는 서비스
-
+- 
 ## 🛠️ 사용 기술 및 라이브러리
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" />
@@ -30,13 +24,20 @@
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white" alt="Svelte" />
 </div>
 
-## 🌱 현재 배우고 있는 것
-- **GraphQL**: React와의 통합 및 쿼리 최적화 방법 학습
-- **테스트 코드 작성**: Jest와 React Testing Library를 사용한 컴포넌트 테스트 및 단위 테스트 작성
-- **상태 관리**: **Zustand**와 **Redux Toolkit**을 통한 상태 관리 기법 향상
-- **서버 사이드 렌더링(SSR)**: **Next.js**를 이용한 SSR 구현 및 성능 최적화 방법
-- **Svelte**: Svelte 프레임워크를 사용한 애플리케이션 개발 방법 학습
+## 🚀 GitHub 통계
+
+<div>
+  <a href="https://github.com/kbc1235">
+    <img src="https://github-readme-stats.vercel.app/api?username=kbc1235&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/kbc1235">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbc1235&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+  </a>
+</div>
+
+## 📌 주요 프로젝트
+- [FitTrip] - CrossFit 박스 찾기 서비스
 
 
-
-
+## 🎯 GitHub 활동
+![Your Name's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kbc1235&theme=radical)
